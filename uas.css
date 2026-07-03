@@ -29,7 +29,6 @@ main {
 
 section {
     width: 100%;
-    min-height: 100dvh;
     padding: 100px 40px;
     display: flex;
     flex-direction: column;
@@ -90,6 +89,7 @@ nav ul li a:hover {
 #home {
     background: linear-gradient(to right, #FFF8EC, #FFF8EC);
     justify-content: center; 
+    height: 100dvh;
 }
 
 .home-content {
