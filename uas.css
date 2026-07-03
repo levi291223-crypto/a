@@ -89,7 +89,6 @@ nav ul li a:hover {
 #home {
     background: linear-gradient(to right, #FFF8EC, #FFF8EC);
     justify-content: center; 
-    height: 100dvh;
 }
 
 .home-content {
