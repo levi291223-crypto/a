@@ -148,6 +148,8 @@ nav ul li a:hover {
 .home-image img {
     width: 350px;
     height: 350px;
+    max-width: 100%;
+    height: auto;
     object-fit: cover;
     border-radius: 25% 10%;
     border: 5px solid #2F6FED;
@@ -497,6 +499,11 @@ footer a:hover {
         height: 150px;
     }
 
+    .home-image img {
+        width: 220px;
+        height: 220px;
+    }
+    
     .foto-card img {
         height: 220px;
     }
